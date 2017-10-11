@@ -70,123 +70,123 @@ layout: default
 [comment]: <> (This is a comment, it will not be included)
 [comment]:Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[//]: # [Link to another page](another-page).
+[comment]: [Link to another page](another-page).
 
-[//]: # There should be whitespace between paragraphs.
+[comment]: There should be whitespace between paragraphs.
 
-[//]: # There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[comment]: There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-[//]: # # [](#header-1)Header 1
+[comment]: # [](#header-1)Header 1
 
-[//]: # This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[comment]: This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-[//]: # ## [](#header-2)Header 2
+[comment]: ## [](#header-2)Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[comment]:> This is a blockquote following a header.
+[comment]:>
+[comment]:> When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
+[comment]:### [](#header-3)Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+[comment]:```js
+[comment]:// Javascript code with syntax highlighting.
+[comment]:var fun = function lang(l) {
+  [comment]:dateformat.i18n = require('./lang/' + l)
+  [comment]:return true;
+[comment]:}
+[comment]:```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[comment]:```ruby
+[comment]:# Ruby code with syntax highlighting
+[comment]:GitHubPages::Dependencies.gems.each do |gem, version|
+  [comment]:s.add_dependency(gem, "= #{version}")
+[comment]:end
+[comment]:```
 
-#### [](#header-4)Header 4
+[comment]:#### [](#header-4)Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+[comment]:*   This is an unordered list following a header.
+[comment]:*   This is an unordered list following a header.
+[comment]:*   This is an unordered list following a header.
 
-##### [](#header-5)Header 5
+[comment]:##### [](#header-5)Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+[comment]:1.  This is an ordered list following a header.
+[comment]:2.  This is an ordered list following a header.
+[comment]:3.  This is an ordered list following a header.
 
-###### [](#header-6)Header 6
+[comment]:###### [](#header-6)Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[comment]:| head1        | head two          | three |
+[comment]:|:-------------|:------------------|:------|
+[comment]:| ok           | good swedish fish | nice  |
+[comment]:| out of stock | good and plenty   | nice  |
+[comment]:| ok           | good `oreos`      | hmm   |
+[comment]:| ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+[comment]:### There's a horizontal rule below this.
 
-* * *
+[comment]:* * *
 
-### Here is an unordered list:
+[comment]:### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+[comment]:*   Item foo
+[comment]:*   Item bar
+[comment]:*   Item baz
+[comment]:*   Item zip
 
-### And an ordered list:
+[comment]:### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+[comment]:1.  Item one
+[comment]:1.  Item two
+[comment]:1.  Item three
+[comment]:1.  Item four
 
-### And a nested list:
+[comment]:### And a nested list:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+[comment]:- level 1 item
+  [comment]:- level 2 item
+  [comment]:- level 2 item
+    [comment]:- level 3 item
+    [comment]:- level 3 item
+[comment]:- level 1 item
+  [comment]:- level 2 item
+  [comment]:- level 2 item
+  [comment]:- level 2 item
+[comment]:- level 1 item
+  [comment]:- level 2 item
+  [comment]:- level 2 item
+[comment]:- level 1 item
 
-### Small image
+[comment]:### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+[comment]:![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-### Large image
+[comment]:### Large image
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+[comment]:![](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+[comment]:### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+[comment]:<dl>
+[comment]:<dt>Name</dt>
+[comment]:<dd>Godzilla</dd>
+[comment]:<dt>Born</dt>
+[comment]:<dd>1952</dd>
+[comment]:<dt>Birthplace</dt>
+[comment]:<dd>Japan</dd>
+[comment]:<dt>Color</dt>
+[comment]:<dd>Green</dd>
+[comment]:</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+[comment]:```
+[comment]:Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long [comment]:enough to demonstrate this.
+[comment]:```
 
-```
-The final element.
-```
+[comment]:```
+[comment]:The final element.
+[comment]:```
 
 
 
